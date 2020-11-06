@@ -4,6 +4,7 @@
 - [TorchRadon: Computational Tomography in PyTorch ](https://github.com/matteo-ronchetti/torch-radon)
 
 ## :scroll: Scientific Papers
+- [Generative Tomography Reconstruction](https://openreview.net/forum?id=5gs_SxdLozM)
 - [TorchRadon: Fast Differentiable Routines for Computed Tomography](https://arxiv.org/abs/2009.14788)
 - [IKA: Independent Kernel Approximator](https://arxiv.org/abs/1809.01353)
 
