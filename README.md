@@ -1,30 +1,18 @@
 # Hi, I'm Matteo Ronchetti 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteo-ronchetti)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔭 Currently Working On
 - [TorchRadon: Computational Tomography in PyTorch ](https://github.com/matteo-ronchetti/torch-radon)
 
 ## :scroll: Scientific Papers
-- [Generative Tomography Reconstruction](https://openreview.net/forum?id=5gs_SxdLozM)
+- [Generative Tomography Reconstruction](https://openreview.net/forum?id=5gs_SxdLozM) (poster at NeurIPS 2020 Deep Inverse workshop)
 - [TorchRadon: Fast Differentiable Routines for Computed Tomography](https://arxiv.org/abs/2009.14788)
 - [IKA: Independent Kernel Approximator](https://arxiv.org/abs/1809.01353)
 
 ## :newspaper: Blogposts
+- [Football Games Analysis from video stream with Machine Learning](https://towardsdatascience.com/football-games-analysis-from-video-stream-with-machine-learning-745e62b36295) (written by my friend [Nicolò](https://github.com/NickLucche) about a project we did toghether)
+
 - [BiBirra: Beer Label Recognition](https://towardsdatascience.com/bibirra-beer-label-recognition-8546c233d6f4)
 - [Creating Pointillist Paintings with Python and OpenCV](https://medium.com/hackernoon/https-medium-com-matteoronchetti-pointillism-with-python-and-opencv-f4274e6bbb7b)
 - [Raschietto: a simple library for web scraping](https://medium.com/hackernoon/raschietto-a-simple-library-for-web-scraping-46957c6aa5b7)
 
-<!--
-**matteo-ronchetti/matteo-ronchetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteo-ronchetti)](https://github.com/anuraghazra/github-readme-stats)
